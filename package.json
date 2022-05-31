@@ -1,0 +1,19 @@
+{
+  "name": "rd-360-image-previewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truonggiangdao/rd-360-image-previewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truonggiangdao/rd-360-image-previewer/issues"
+  },
+  "homepage": "https://github.com/truonggiangdao/rd-360-image-previewer#readme"
+}
